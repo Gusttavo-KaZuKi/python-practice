@@ -40,3 +40,5 @@ class Contagem(Base):
     data = Column(Date, nullable=False)
     
     
+# class Saida(Base):
+    
